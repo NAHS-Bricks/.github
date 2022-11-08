@@ -6,6 +6,7 @@ In the meantime enjoy a sneakpeak what is going to come.
 
 ## Hardware (the Bricks itself)
 
+  * nahs-DevBrick
   * nahs-HeatBrick
   * nahs-LatchBrick
   * nahs-RackBrick
@@ -26,6 +27,7 @@ In the meantime enjoy a sneakpeak what is going to come.
 
   * nahs-Bricks-Feature-All
   * nahs-Bricks-Feature-Bat
+  * nahs-Bricks-Feature-Fanctl
   * nahs-Bricks-Feature-Humid
   * nahs-Bricks-Feature-Latch
   * nahs-Bricks-Feature-Signal
@@ -41,4 +43,5 @@ In the meantime enjoy a sneakpeak what is going to come.
   
 ## Others
 
+  * nahs-Bricks-Interface
   * nahs-Bricks-CoIC
