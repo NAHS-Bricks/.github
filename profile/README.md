@@ -36,10 +36,11 @@ In the meantime enjoy a sneakpeak what is going to come.
 
 ### Librarys
 
-  * nahs-Bricks-Lib-CoIC
-  * nahs-Bricks-Lib-FSmem
+  * [nahs-Bricks-Lib-CoIC](https://github.com/NAHS-Bricks/Lib-CoIC)
+  * [nahs-Bricks-Lib-FSmem](https://github.com/NAHS-Bricks/Lib-FSmem)
   * nahs-Bricks-Lib-HDC1080
-  * nahs-Bricks-Lib-RTCmem
+  * [nahs-Bricks-Lib-RTCmem](https://github.com/NAHS-Bricks/Lib-RTCmem)
+  * [nahs-Bricks-Lib-SerHelp](https://github.com/NAHS-Bricks/Lib-SerHelp)
   
 ## Others
 
