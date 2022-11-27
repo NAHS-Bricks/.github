@@ -21,12 +21,12 @@ In the meantime enjoy a sneakpeak what is going to come.
   
 ## Software (Firmware)
 
-  * nahs-Bricks-OS
+  * [nahs-Bricks-OS](https://github.com/NAHS-Bricks/OS)
 
 ### Features
 
-  * nahs-Bricks-Feature-All
-  * nahs-Bricks-Feature-Bat
+  * [nahs-Bricks-Feature-All](https://github.com/NAHS-Bricks/Feature-All)
+  * [nahs-Bricks-Feature-Bat](https://github.com/NAHS-Bricks/Feature-Bat)
   * nahs-Bricks-Feature-Fanctl
   * nahs-Bricks-Feature-Humid
   * nahs-Bricks-Feature-Latch
