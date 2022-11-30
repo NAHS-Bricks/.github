@@ -11,7 +11,7 @@ In the meantime enjoy a sneakpeak what is going to come.
   * nahs-LatchBrick
   * nahs-RackBrick
   * nahs-RHTBrick
-  * nahs-SignalBrick
+  * [nahs-SignalBrick](https://github.com/NAHS-Bricks/SignalBrick)
   * nahs-TempBrick
   
 ## Software (Server)
@@ -30,8 +30,8 @@ In the meantime enjoy a sneakpeak what is going to come.
   * nahs-Bricks-Feature-Fanctl
   * nahs-Bricks-Feature-Humid
   * nahs-Bricks-Feature-Latch
-  * nahs-Bricks-Feature-Signal
-  * nahs-Bricks-Feature-Sleep
+  * [nahs-Bricks-Feature-Signal](https://github.com/NAHS-Bricks/Feature-Signal)
+  * [nahs-Bricks-Feature-Sleep](https://github.com/NAHS-Bricks/Feature-Sleep)
   * nahs-Bricks-Feature-Temp
 
 ### Librarys
