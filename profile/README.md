@@ -10,7 +10,7 @@ In the meantime enjoy a sneakpeak what is going to come.
   * nahs-HeatBrick
   * nahs-LatchBrick
   * nahs-RackBrick
-  * nahs-RHTBrick
+  * [nahs-RHTBrick](https://github.com/NAHS-Bricks/RHTBrick)
   * [nahs-SignalBrick](https://github.com/NAHS-Bricks/SignalBrick)
   * nahs-TempBrick
   
@@ -32,13 +32,13 @@ In the meantime enjoy a sneakpeak what is going to come.
   * nahs-Bricks-Feature-Latch
   * [nahs-Bricks-Feature-Signal](https://github.com/NAHS-Bricks/Feature-Signal)
   * [nahs-Bricks-Feature-Sleep](https://github.com/NAHS-Bricks/Feature-Sleep)
-  * nahs-Bricks-Feature-Temp
+  * [nahs-Bricks-Feature-Temp](https://github.com/NAHS-Bricks/Feature-Temp)
 
 ### Librarys
 
   * [nahs-Bricks-Lib-CoIC](https://github.com/NAHS-Bricks/Lib-CoIC)
   * [nahs-Bricks-Lib-FSmem](https://github.com/NAHS-Bricks/Lib-FSmem)
-  * nahs-Bricks-Lib-HDC1080
+  * [nahs-Bricks-Lib-HDC1080](https://github.com/NAHS-Bricks/Lib-HDC1080)
   * [nahs-Bricks-Lib-RTCmem](https://github.com/NAHS-Bricks/Lib-RTCmem)
   * [nahs-Bricks-Lib-SerHelp](https://github.com/NAHS-Bricks/Lib-SerHelp)
   
