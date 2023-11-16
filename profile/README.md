@@ -7,7 +7,7 @@ In the meantime enjoy a sneakpeak what is going to come.
 ## Hardware (the Bricks itself)
 
   * nahs-DevBrick
-  * nahs-HeatBrick
+  * [nahs-HeatBrick](https://github.com/NAHS-Bricks/HeatBrick)
   * [nahs-LatchBrick](https://github.com/NAHS-Bricks/LatchBrick)
   * nahs-RackBrick
   * [nahs-RHTBrick](https://github.com/NAHS-Bricks/RHTBrick)
@@ -29,7 +29,7 @@ In the meantime enjoy a sneakpeak what is going to come.
   * [nahs-Bricks-Feature-Bat](https://github.com/NAHS-Bricks/Feature-Bat)
   * nahs-Bricks-Feature-Fanctl
   * [nahs-Bricks-Feature-Humid](https://github.com/NAHS-Bricks/Feature-Humid)
-  * nahs-Bricks-Feature-Latch
+  * [nahs-Bricks-Feature-Latch](https://github.com/NAHS-Bricks/Feature-Latch)
   * [nahs-Bricks-Feature-Signal](https://github.com/NAHS-Bricks/Feature-Signal)
   * [nahs-Bricks-Feature-Sleep](https://github.com/NAHS-Bricks/Feature-Sleep)
   * [nahs-Bricks-Feature-Temp](https://github.com/NAHS-Bricks/Feature-Temp)
@@ -45,5 +45,5 @@ In the meantime enjoy a sneakpeak what is going to come.
   
 ## Others
 
-  * nahs-Bricks-Interface
+  * [nahs-Bricks-Interface](https://github.com/NAHS-Bricks/Interface)
   * nahs-Bricks-CoIC
