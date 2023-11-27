@@ -28,6 +28,7 @@ In the meantime enjoy a sneakpeak what is going to come.
   * [nahs-Bricks-Feature-All](https://github.com/NAHS-Bricks/Feature-All)
   * [nahs-Bricks-Feature-Bat](https://github.com/NAHS-Bricks/Feature-Bat)
   * nahs-Bricks-Feature-Fanctl
+  * [nahs-Bricks-Feature-Heat](https://github.com/NAHS-Bricks/Feature-Heat)
   * [nahs-Bricks-Feature-Humid](https://github.com/NAHS-Bricks/Feature-Humid)
   * [nahs-Bricks-Feature-Latch](https://github.com/NAHS-Bricks/Feature-Latch)
   * [nahs-Bricks-Feature-Signal](https://github.com/NAHS-Bricks/Feature-Signal)
