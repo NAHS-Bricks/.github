@@ -16,7 +16,7 @@ In the meantime enjoy a sneakpeak what is going to come.
   
 ## Software (Server)
 
-  * nahs-Bricks-Server
+  * [nahs-Bricks-Server](https://github.com/NAHS-Bricks/Server)
   * nahs-Bricks-Web
   
 ## Software (Firmware)
